@@ -3,7 +3,6 @@ import java.util.Scanner;
  * InnerCobaKafeYola20
  */
 public class InnerCobaKafeYola20 {
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
